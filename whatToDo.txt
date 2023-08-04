@@ -1,2 +1,10 @@
 set path=%PATH%;C:\Program Files\MySQL\MySQL Server 8.0\bin\
 mysql -u root -p  the password is 12345678. Yes its weak I know.
+
+What I learned:
+There are libraries for connecting Go to Databases. Use database drivers.
+Databases can be set up with SQL commands in files.
+Learned how to create a database in SQL.
+Learned how to use SQL CLI to run SQL command files.
+Learned how to create a struct to define data in Relational Databases.
+Learned how to access a database from Go code.
